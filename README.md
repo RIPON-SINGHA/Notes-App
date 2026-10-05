@@ -6,7 +6,7 @@ This project is done to learn web development, especially the frontend using van
 
 The goal was to build one app for learning how to build CRUD application using vanilla JS and make it functionable and feature heavy.
 
-## This Notes App have :
+## This Notes App has :
 - Create New Note
 - Delete Note
 - Editing Note Title
