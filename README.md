@@ -6,7 +6,7 @@ This project is done to learn web development, especially the frontend using van
 
 The goal was to build one app for learning how to build CRUD application using vanilla JS and make it functionable and feature heavy.
 
-## This Notes App v1 have :
+## This Notes App have :
 - Create New Note
 - Delete Note
 - Editing Note Title
@@ -18,5 +18,11 @@ The goal was to build one app for learning how to build CRUD application using v
 - Character and word count
 - Search feature by Note title
 - Data persistence across different notes
+- Text formatting
+- Light and dark theme
+- downloading the note text and txt file
+- Pinned notes
+- Sorting notes in the list by receent updates with pinned ones
+- and overall better design and usability
 
-## There will be another Notes App v2 after this one
+## 
